@@ -1,3 +1,3 @@
 # Apnacollege.Demo
-This is my first Repository
-dil p chalai churiyan
+This is my first Repository.
+created by Aditya Singh Shekhawat.
